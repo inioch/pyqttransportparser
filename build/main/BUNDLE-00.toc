@@ -1,0 +1,3 @@
+([('main',
+   '/Users/inioch/PycharmProjects/pyqttransportparser/dist/main',
+   'EXECUTABLE')],)
